@@ -7,7 +7,7 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="www.linkedin.com/in/mourhaf-sabony-6653723a8" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/mourhaf-sabony-6653723a8" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">LinkedIn</a></code>
    <code><a href="https://wa.me/963956256202" title="WhatsApp Number"><img width="22" src="https://cdn.simpleicons.org/whatsapp">WhatsApp</a></code>
   <code><a href="https://www.instagram.com/mourhaf_sa/" title="Instagram Profile"><img width="22" src="https://cdn.simpleicons.org/instagram"> Instagram</a></code>
 </h5>
