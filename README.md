@@ -29,7 +29,7 @@
   💬 Feel free to ask me anything from 
   <a href="https://github.com/Mourhaf-Sabony/Mourhaf-Sabony/issues">here</a>
   <br>
-  📫 Reach me at: <a href="mourhafsabonys@gmail.com">mourhafsabonys@gmail.com</a>
+  📫 Reach me at: <a>mourhafsabonys@gmail.com</a>
 </p>
 
 <hr>
