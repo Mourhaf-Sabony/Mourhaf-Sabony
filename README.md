@@ -77,10 +77,14 @@
 <h2 align="center">👨‍💻 Featured Projects 👨‍💻</h2>
 <br>
 
-<p align="center">
-  🚧 Projects will be added soon (ASP.NET APIs, Back-End Systems, University Projects)
-</p>
+<div width="100%" align="center">
+<a align="center" href="https://github.com/Mourhaf-Sabony/Bank-Management-System.git" title="Bank-Management-System"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mourhaf-Sabony&repo=Bank-Management-System&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
 
+<br><br><br><br><br><br><br>
+
+<div width="100%" align="center">
 <h4 align="center">
   <a href="https://github.com/Mourhaf-Sabony?tab=repositories">🔎 Show All Repositories 🔍</a>
 </h4>
+</div>
