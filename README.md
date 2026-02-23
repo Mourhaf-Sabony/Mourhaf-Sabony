@@ -45,6 +45,7 @@
   <code><img title="Visual Studio" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
   <code><img title="Problem Solving" height="25" src="https://cdn-icons-png.flaticon.com/512/2103/2103658.png"></code>
+  <code><img title="Data Structure" height="25" src="https://cdn-icons-png.flaticon.com/128/8637/8637660.png"></code>
 </p>
 
 <hr>
