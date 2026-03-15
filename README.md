@@ -75,7 +75,10 @@
 <br>
 
 <div width="100%" align="center">
-<a align="center" href="https://github.com/Mourhaf-Sabony/Bank-Management-System.git" title="Bank-Management-System"><img align="left" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=Mourhaf-Sabony&repo=Bank-Management-System&theme=react&border_color=61dafb&border_radius=10"></a>
+<a align="center" href="https://github.com/Mourhaf-Sabony/data-structure-projects.git" title="data-structure-project"><img align="left" height="300" src="https://github-readme-stats.vercel.app/api/pin/?username=Mourhaf-Sabony&repo=data-structure-projects&theme=react&border_color=61dafb&border_radius=10"></a>
+  
+<a align="center" href="https://github.com/Mourhaf-Sabony/Bank-Management-System.git" title="Bank-Management-System"><img align="right" height="300" src="https://github-readme-stats.vercel.app/api/pin/?username=Mourhaf-Sabony&repo=Bank-Management-System&theme=react&border_color=61dafb&border_radius=10"></a>
+  
 </div>
 
 <br><br><br><br><br><br><br>
