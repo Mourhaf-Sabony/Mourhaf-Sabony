@@ -48,6 +48,7 @@
   <code><img title="Microsoft SQL Server" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"></code>
   <code><img title="Problem Solving" height="25" src="https://cdn-icons-png.flaticon.com/512/2103/2103658.png"></code>
   <code><img title="Data Structure" height="25" src="https://cdn-icons-png.flaticon.com/128/8637/8637660.png"></code>
+  <code><img title="Notion" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg"></code>
 </p>
 
 <hr>
