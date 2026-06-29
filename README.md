@@ -44,6 +44,8 @@
   <code><img title="GitHub" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
   <code><img title="Visual Studio" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
+   <code><img title=".NET Framework" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg"></code>
+  <code><img title="Microsoft SQL Server" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"></code>
   <code><img title="Problem Solving" height="25" src="https://cdn-icons-png.flaticon.com/512/2103/2103658.png"></code>
   <code><img title="Data Structure" height="25" src="https://cdn-icons-png.flaticon.com/128/8637/8637660.png"></code>
 </p>
@@ -78,6 +80,13 @@
 <a align="center" href="https://github.com/Mourhaf-Sabony/data-structure-projects.git" title="data-structure-project"><img align="left" height="300" src="https://github-readme-stats.vercel.app/api/pin/?username=Mourhaf-Sabony&repo=data-structure-projects&theme=react&border_color=61dafb&border_radius=10"></a>
   
 <a align="center" href="https://github.com/Mourhaf-Sabony/Bank-Management-System.git" title="Bank-Management-System"><img align="right" height="300" src="https://github-readme-stats.vercel.app/api/pin/?username=Mourhaf-Sabony&repo=Bank-Management-System&theme=react&border_color=61dafb&border_radius=10"></a>
+  
+</div>
+
+<br><br><br><br><br><br><br><br>
+
+<div width="100%" align="center">
+<a align="left" href="https://github.com/Mourhaf-Sabony/Tic-Tac-Toe-Project.git" title="Tic-Tac-Toe-Project"><img align="left" height="300" src="https://github-readme-stats.vercel.app/api/pin/?username=Mourhaf-Sabony&repo=Tic-Tac-Toe-Project&theme=react&border_color=61dafb&border_radius=10"></a>
   
 </div>
 
