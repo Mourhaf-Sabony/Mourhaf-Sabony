@@ -61,7 +61,7 @@
  <div align=center>
    <!--"https://github.com/anuraghazra/github-readme-stats"-->
    <a>
-     <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mourhaf-Sabony&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+     <img height=250 align="left" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mourhaf-Sabony&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
    </a>
    <a>
      <img align="right" width=390 src="https://github-stats-extended.vercel.app/api?username=Mourhaf-Sabony&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
@@ -69,10 +69,12 @@
  </div>
  
  <br><br><br><br>
-
- <br>
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mourhaf-Sabony&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
- </p>
+ 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mourhaf-Sabony/Mourhaf-Sabony/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mourhaf-Sabony/Mourhaf-Sabony/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Mourhaf-Sabony/Mourhaf-Sabony/output/github-snake.svg" />
+</picture>
 
 <hr>
 
@@ -80,16 +82,16 @@
 <br>
 
 <div width="100%" align="center">
-<a align="center" href="https://github.com/Mourhaf-Sabony/data-structure-projects.git" title="data-structure-project"><img align="left" height="300" src="https://github-stats-extended.vercel.app/api/pin/?username=Mourhaf-Sabony&repo=data-structure-projects&theme=react&border_color=61dafb&border_radius=10"></a>
+<a align="center" href="https://github.com/Mourhaf-Sabony/data-structure-projects.git" title="data-structure-project"><img align="left" height="170" src="https://github-stats-extended.vercel.app/api/pin/?username=Mourhaf-Sabony&repo=data-structure-projects&theme=react&border_color=61dafb&border_radius=10"></a>
   
-<a align="center" href="https://github.com/Mourhaf-Sabony/Bank-Management-System.git" title="Bank-Management-System"><img align="right" height="300" src="https://github-stats-extended.vercel.app/api/pin/?username=Mourhaf-Sabony&repo=Bank-Management-System&theme=react&border_color=61dafb&border_radius=10"></a>
+<a align="center" href="https://github.com/Mourhaf-Sabony/Bank-Management-System.git" title="Bank-Management-System"><img align="right" height="170" src="https://github-stats-extended.vercel.app/api/pin/?username=Mourhaf-Sabony&repo=Bank-Management-System&theme=react&border_color=61dafb&border_radius=10"></a>
   
 </div>
 
 <br><br><br><br><br><br><br><br>
 
 <div width="100%" align="center">
-<a align="left" href="https://github.com/Mourhaf-Sabony/Tic-Tac-Toe-Project.git" title="Tic-Tac-Toe-Project"><img align="left" height="300" src="https://github-stats-extended.vercel.app/api/pin/?username=Mourhaf-Sabony&repo=Tic-Tac-Toe-Project&theme=react&border_color=61dafb&border_radius=10"></a>
+<a align="left" href="https://github.com/Mourhaf-Sabony/Tic-Tac-Toe-Project.git" title="Tic-Tac-Toe-Project"><img align="left" height="170" src="https://github-stats-extended.vercel.app/api/pin/?username=Mourhaf-Sabony&repo=Tic-Tac-Toe-Project&theme=react&border_color=61dafb&border_radius=10"></a>
   
 </div>
 
