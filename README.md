@@ -1,7 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mourhaf-Sabony.Mourhaf-Sabony">
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
+  <!--"https://git.io/typing-svg"-->
+  <a>
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Mourhaf+Sabony;Nice+to+meet+you&center=true&size=30">
   </a>
 </h1>
@@ -58,10 +59,11 @@
 
 <p align="center">
  <div align=center>
-   <a href="https://github.com/anuraghazra/github-readme-stats">
+   <!--"https://github.com/anuraghazra/github-readme-stats"-->
+   <a>
      <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mourhaf-Sabony&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
    </a>
-   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+   <a>
      <img align="right" width=390 src="https://github-stats-extended.vercel.app/api?username=Mourhaf-Sabony&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
    </a>
  </div>
